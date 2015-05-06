@@ -1,13 +1,20 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   get 'happy_controller/index'
 
   resources :quotes
   resources :jokes
+=======
+>>>>>>> a31938e4d799cbed0707e90923a3ab509a1bafb3
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
+<<<<<<< HEAD
   root 'happy_controller#index'
+=======
+  # root 'welcome#index'
+>>>>>>> a31938e4d799cbed0707e90923a3ab509a1bafb3
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
