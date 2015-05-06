@@ -1,0 +1,2 @@
+module HappyControllerHelper
+end
