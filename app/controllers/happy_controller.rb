@@ -1,4 +1,4 @@
-class HappyControllerController < ApplicationController
+class HappyController < ApplicationController
   def index
   end
 end
